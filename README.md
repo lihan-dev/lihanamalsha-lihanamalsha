@@ -17,4 +17,4 @@
 - Ocean View Resort – Room Reservation System (Java)
 
 ## 📫 Connect with me
-- Email: lihanamalsha@gmail.com
+- Email: lihanamalsha358@gmail.com
